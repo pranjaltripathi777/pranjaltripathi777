@@ -9,10 +9,20 @@ I enjoy building real-world projects, solving DSA problems on LeetCode, and cont
 
 ## 🧠 Coding & Problem Solving  
 
+<!-- 🌟 LeetCode Animated Section -->
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="150" alt="LeetCode Animation"/>
+</p>
+
 <p align="center">
   <a href="https://leetcode.com/u/Pranjal2003leet/">
-    <img src="https://leetcard.jacoblin.cool/Pranjal2003leet?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" width="600"/>
+    <img src="https://leetcard.jacoblin.cool/Pranjal2003leet?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" alt="LeetCode Stats" width="600"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Pranjal2003leet&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase" width="550"/>
 </p>
 
 
@@ -58,6 +68,8 @@ I enjoy building real-world projects, solving DSA problems on LeetCode, and cont
   Galgotias College of Engineering & Technology (2023 – 2027)  
   CGPA: **7.0 / 10** (till 4th semester)
 
+---
+
 ## 📜 Certifications  
 
 - AI Appreciate Badge – *AI For All*  
@@ -77,4 +89,3 @@ I enjoy building real-world projects, solving DSA problems on LeetCode, and cont
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*  
-
