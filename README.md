@@ -15,9 +15,6 @@ I enjoy building real-world projects, solving DSA problems on LeetCode, and cont
   </a>
 </p>
 
-- ✅ **185+ problems solved on LeetCode**
-- ✅ **126+ problems solved on GeeksforGeeks**
-- Strong grip on **DSA, arrays, strings, recursion, basic graphs**
 
 ---
 
@@ -60,11 +57,6 @@ I enjoy building real-world projects, solving DSA problems on LeetCode, and cont
 - **B.Tech in Information Technology**  
   Galgotias College of Engineering & Technology (2023 – 2027)  
   CGPA: **7.0 / 10** (till 4th semester)
-
-- **Class XII** – 71.5%  
-- **Class X** – 85%
-
----
 
 ## 📜 Certifications  
 
