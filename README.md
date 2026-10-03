@@ -1,133 +1,210 @@
-# 👋 Hi, I'm Pranjal Tripathi  
+# 👋 Hi, I'm Pranjal Tripathi
 
-🎓 B.Tech Information Technology Student | 💻 Frontend Developer | 🧠 DSA Enthusiast | 📊 Aspiring Data Science Learner  
+### 💻 Java Backend Developer | ☕ Spring Boot | 🧠 DSA Enthusiast
 
-I am an Information Technology undergraduate at **Galgotias College of Engineering and Technology (GCET)** with a strong interest in **problem solving, frontend development, and data-driven technologies**.  
+I'm an **Information Technology undergraduate** at **Galgotias College of Engineering and Technology**, with hands-on experience in **Java, Spring Boot, REST APIs, SQL, and relational databases**.
 
-I enjoy building real-world web projects, solving coding challenges, and continuously improving my technical skills through practical learning.
-
----
-
-## 🧠 Coding & Problem Solving  
-
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="150" alt="LeetCode Animation"/>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Pranjal2003leet/">
-    <img src="https://leetcard.jacoblin.cool/Pranjal2003leet?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" alt="LeetCode Stats" width="600"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Pranjal2003leet&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase" width="550"/>
-</p>
-
-### 📌 Achievements
-- Solved **350+ Problems on LeetCode**
-- Solved **150+ Problems on GeeksforGeeks**
-- Strong interest in **Data Structures & Algorithms**
+I enjoy building backend applications, designing clean APIs, solving Data Structures & Algorithms problems, and strengthening my software engineering fundamentals through practical projects.
 
 ---
 
-## 🚀 Projects  
+## 🚀 About Me
 
-| Project | Description | Tech Stack | Live / Repo |
-|--------|------------|-----------|------------|
-| **Tripathi Weather App** | Real-time weather forecasting app with city search, live weather data, and responsive UI. | HTML, CSS, JavaScript, OpenWeatherMap API | [Live](https://pranjaltripathi007.github.io/Pranjal-Weather-App/) |
-| **Student Result Management System** | Browser-based system to manage students, marks, grades, pass/fail status using LocalStorage. | HTML, CSS, JavaScript, LocalStorage | GitHub |
-| **Advanced To-Do Web App** | Task creation, edit, filters, dark mode, and LocalStorage support. | HTML, CSS, JavaScript | [Live](https://pranjaltripathi777.github.io/To-do-app/) |
+- 🎓 B.Tech Information Technology student at **Galgotias College of Engineering and Technology**
+- ☕ Focused on **Java Backend Development**
+- 🌱 Currently strengthening my skills in **Spring Boot, REST APIs, JPA & Hibernate**
+- 🧠 Solved **500+ DSA problems** on LeetCode and GeeksforGeeks
+- 🔐 Interested in **Backend Development, API Design & Enterprise Applications**
+- 📍 Greater Noida, Uttar Pradesh, India
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
+- Java
 - C++
-- Basic Java
+- SQL
 
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- Flask
-- REST APIs
+### ⚙️ Frameworks & Libraries
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
 
 ### 🗄️ Database
 - MySQL
 
-### ⚙️ Tools & Platforms
+### 🔧 Tools
 - Git
 - GitHub
-- GitHub Pages
+- Maven
+- Postman
 - VS Code
 
 ### 🧠 Core Concepts
+- Object-Oriented Programming
 - Data Structures & Algorithms
-- OOP Basics
-- Problem Solving
-- Technical Writing
-
-### 📊 Mathematics for Data Science
-- Linear Algebra
-- Probability
-- Statistics (Basics)
+- DBMS
+- REST APIs
+- JDBC
+- Exception Handling
+- Software Development Fundamentals
 
 ---
 
-## 🎓 Education  
+## 🚀 Projects
 
-### 🎓 B.Tech in Information Technology  
+### 🍔 Online Food Ordering & Restaurant Management REST API
+
+A backend REST API for managing users, restaurants, menus, carts, and orders.
+
+**Tech Stack:**  
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL`
+
+### Key Features
+- RESTful APIs for users, restaurants, menus, carts, and orders
+- JPA/Hibernate entity design
+- DTO-based API architecture
+- Input validation
+- Pagination and search
+- Centralized exception handling
+- JWT-based authentication
+- BCrypt password hashing
+- USER / ADMIN authorization
+- Transactional order processing
+- Cart and menu validation
+
+🔗 **[View Project on GitHub](https://github.com/pranjaltripathi777/online-food-ordering-rest-api)**
+
+---
+
+### 🔗 URL Shortener REST API
+
+A RESTful URL shortening service built using Spring Boot with a layered backend architecture.
+
+**Tech Stack:**  
+`Java 21` `Spring Boot 3` `Spring Data JPA` `Hibernate` `MySQL` `JUnit 5` `OpenAPI`
+
+### Key Features
+- Generates unique **Base62 short codes**
+- Redirects users to original URLs
+- URL expiry support
+- Click tracking
+- CRUD operations
+- Input validation
+- Centralized exception handling using `@RestControllerAdvice`
+- MySQL persistence
+- Layered architecture:
+  - Controller
+  - Service
+  - Repository
+  - DTO
+- **22 unit and integration tests** using JUnit 5 and MockMvc
+- Swagger / OpenAPI 3.0 documentation
+
+---
+
+## 🧠 Coding & Problem Solving
+
+I regularly practice **Data Structures & Algorithms** to strengthen problem-solving and programming fundamentals.
+
+### 📊 Achievements
+
+- 🏆 Solved **500+ DSA problems**
+- 💻 Practice across **LeetCode and GeeksforGeeks**
+- 🧩 Strong focus on problem solving and algorithmic thinking
+
+---
+
+## 📈 Coding Profiles
+
+### LeetCode
+
+<a href="https://leetcode.com/u/Pranjal2003leet/">
+  <img src="https://leetcard.jacoblin.cool/Pranjal2003leet?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" alt="Pranjal's LeetCode Stats" width="600"/>
+</a>
+
+### GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/user/pranjal_tripathi__/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+</a>
+
+---
+
+## 🎓 Education
+
+### 🎓 B.Tech in Information Technology
+
 **Galgotias College of Engineering and Technology**  
 📍 Greater Noida, India  
 📅 2023 – 2027  
-📈 CGPA: **7.01 / 10**
+📈 **CGPA: 7.15 / 10.00**
 
-### 🏫 Class XII  
-**Sarswati Vidya Mandir Sr. Sec. School, Basti**  
+### 🏫 Senior Secondary — Class XII
+
+**Sarswati Vidya Mandir Sr. Sec. School**  
+📍 Basti, Uttar Pradesh  
 📅 2022  
-📊 Percentage: **71.2%**
+📊 **71.2%**
 
-### 🏫 Class X  
-**Dawn Vasco School, Basti**  
+### 🏫 Secondary — Class X
+
+**Dawn Vasco School**  
+📍 Basti, Uttar Pradesh  
 📅 2020  
-📊 Percentage: **84.16%**
+📊 **84.16%**
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications
 
-- AI Appreciate Badge — AI For All  
-- AI Aware Badge — AI For All  
-- GenAI Powered Data Analytics Job Simulation — Forage  
-- Quantum Data Analytics Job Simulation — Forage  
-- Neo4j Certified Professional — Neo4j  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 GitHub: [pranjaltripathi777](https://github.com/pranjaltripathi777)  
-- 🧠 LeetCode: [Pranjal2003leet](https://leetcode.com/u/Pranjal2003leet/)  
-- 💼 LinkedIn: [Pranjal Tripathi](https://www.linkedin.com/in/pranjal-tripathi-470624205/)  
-- 📧 Email: pranjaltripathi2005@gmail.com  
+- **AI Appreciate Badge** — AI For All
+- **AI Aware Badge** — AI For All
+- **GenAI Powered Data Analytics Job Simulation** — Forage
+- **Quantum Data Analytics Job Simulation** — Forage
+- **Neo4j Certified Professional** — Neo4j
 
 ---
 
-## 🌱 Currently Learning  
+## 📫 Connect With Me
 
-- Data Science Fundamentals  
-- Machine Learning Basics  
-- Advanced JavaScript  
-- Competitive Programming  
+<p align="left">
+  <a href="https://github.com/pranjaltripathi777">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/Pranjal2003leet/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pranjal-tripathi-470624205/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+📧 **Email:** pranjaltripathi2005@gmail.com
 
 ---
 
-## ⭐ Fun Fact  
+## 🌱 Currently Learning
 
-I believe consistency + curiosity can beat talent over time. 🚀  
+- Advanced Spring Boot
+- Spring Security
+- REST API Development
+- JPA & Hibernate
+- Backend Architecture
+- SQL & Database Design
+- Data Structures & Algorithms
+- Software Engineering Fundamentals
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+## 🎯 Career Focus
+
+I'm currently focused on building a strong foundation in **Java backend development and enterprise application development**, while continuously improving my problem-solving and software engineering skills.
+
+---
+
+⭐ **If you find my projects useful, feel free to star the repositories!**
