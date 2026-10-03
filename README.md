@@ -103,6 +103,7 @@ A RESTful URL shortening service built using Spring Boot with a layered backend 
 - **22 unit and integration tests** using JUnit 5 and MockMvc
 - Swagger / OpenAPI 3.0 documentation
 
+🔗 **[View Project on GitHub](https://github.com/pranjaltripathi777/url-shortener)**
 ---
 
 ## 🧠 Coding & Problem Solving
